@@ -1,0 +1,14 @@
+C:\Users\51313002828\Documents\lacoRepeticao\lacoRepeticao\bin\Debug\lacoRepeticao.exe.config
+C:\Users\51313002828\Documents\lacoRepeticao\lacoRepeticao\bin\Debug\lacoRepeticao.exe
+C:\Users\51313002828\Documents\lacoRepeticao\lacoRepeticao\bin\Debug\lacoRepeticao.pdb
+C:\Users\51313002828\Documents\lacoRepeticao\lacoRepeticao\obj\Debug\lacoRepeticao.csproj.AssemblyReference.cache
+C:\Users\51313002828\Documents\lacoRepeticao\lacoRepeticao\obj\Debug\lacoRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\51313002828\Documents\lacoRepeticao\lacoRepeticao\obj\Debug\lacoRepeticao.exe
+C:\Users\51313002828\Documents\lacoRepeticao\lacoRepeticao\obj\Debug\lacoRepeticao.pdb
+C:\Users\51313002828\Documents\C#\lacoRepeticao\lacoRepeticao\bin\Debug\lacoRepeticao.exe.config
+C:\Users\51313002828\Documents\C#\lacoRepeticao\lacoRepeticao\bin\Debug\lacoRepeticao.exe
+C:\Users\51313002828\Documents\C#\lacoRepeticao\lacoRepeticao\bin\Debug\lacoRepeticao.pdb
+C:\Users\51313002828\Documents\C#\lacoRepeticao\lacoRepeticao\obj\Debug\lacoRepeticao.csproj.AssemblyReference.cache
+C:\Users\51313002828\Documents\C#\lacoRepeticao\lacoRepeticao\obj\Debug\lacoRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\51313002828\Documents\C#\lacoRepeticao\lacoRepeticao\obj\Debug\lacoRepeticao.exe
+C:\Users\51313002828\Documents\C#\lacoRepeticao\lacoRepeticao\obj\Debug\lacoRepeticao.pdb
